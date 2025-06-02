@@ -29,3 +29,9 @@ ul {list-style-type:none;
 
 li {margin-bottom: 10px;
    font-size:25px;}
+
+a {color:rgb(48, 48, 117);
+  text-decoration:none;}
+
+a:hover {color:orange;
+        text-decoration:underline;}
