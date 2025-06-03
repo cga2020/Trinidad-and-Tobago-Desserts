@@ -1,4 +1,4 @@
-body {background-color:rgba(236, 231, 231, 0.973);
+body {background-color:white;
      font-family: sans-serif, Arial, Helvetica;
       max-width:800px;
       margin:auto;
@@ -10,7 +10,7 @@ h1 {font-size:60px;
     margin-top: 20px;
     margin-bottom: 50px;}
 
-h1, h2 {color:rgba(255, 217, 0, 0.603);}
+h1, h2 {color:rgba(180, 211, 8, 0.432);}
 
 h2 {font-size:30px;}
 
