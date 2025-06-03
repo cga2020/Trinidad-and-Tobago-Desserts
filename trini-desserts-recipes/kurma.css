@@ -1,0 +1,38 @@
+body {background-color:white;
+     max-width: 800px;
+     margin:auto;
+     font-family: sans-serif, Arial, Helvetica;
+     margin-bottom: 15px;}
+
+h1 ,h2 , a {color: rgba(131, 9, 9, 0.74)}
+
+h1, .description {text-align:center;}
+
+h1 {font-size: 60px;
+   font-family:cursive;}
+
+.description {margin-top:auto;
+             margin-top: 50px;
+             font-size:40px;}
+
+h2 {font-size:30px;}
+
+img {display:block;
+     margin:auto;
+     border-radius: 16px;}
+
+p, li {line-height: 1.8em;
+       font-size: 22px;}
+
+ol, ul {padding: 0 20px;}
+
+ul {list-style-type:circle;}
+
+a {font-size:25px;
+  text-decoration: none;}
+
+a:hover {text-decoration:underline;
+        color:blue;}
+
+
+
